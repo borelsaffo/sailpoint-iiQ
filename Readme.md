@@ -3,7 +3,7 @@
 # SailPoint IdentityIQ 8.5 sur macOS (Intel)
 
 **Version :** 1.0\
-**Auteur :** ChatGPT & Borel Saffo\
+**Auteur :** Borel Saffo\
 **Plateforme :** macOS + Tomcat 9 + MySQL 8.4 + Java 11
 
 ------------------------------------------------------------------------
